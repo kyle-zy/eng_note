@@ -104,12 +104,6 @@
  \1. 你们是商人吗? 不，我们是旅行者。
  Are you businessmen? No, we aren’t. We are tourists.
 
-喜马拉雅 fm 中手动搜索“享学晨读:新概念英语一”，和我们一起晨读打卡吧! 5
-
-搜索微信公众号“享学派”，关注并回复“新一讲义”，获得完整讲义。
-
-LESSON 14 【场景演练】如何出国过海关(2)
-
 \2. 你在美国有亲戚吗? 有，我的叔叔住在纽约，他是美国籍。
  Do you have relatives in the U.S.? Yes, I do. My uncle lives in New York. His nationality is American.
 
