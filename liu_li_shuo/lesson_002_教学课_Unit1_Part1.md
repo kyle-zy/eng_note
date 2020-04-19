@@ -1,10 +1,10 @@
-### Lesson_002 教学课 Unit1_Part1
+### Lesson_002 教学课 Unit1_Part1 
 
-#### The Jackson Family && Their Neighborhood
+The Jackson Family && Their Neighborhood
 
 ---
 
-##### **”the + 姓氏 + family“** 指的就是姓某个姓氏的一家人
+#### **”the + 姓氏 + family“** 指的就是姓某个姓氏的一家人
 
 e.g.: the Smith family 史密斯一家人
 
@@ -12,13 +12,13 @@ e.g.: the Williams family 威廉姆斯一家人
 
 ---
 
-##### **"a family of + 数字"** 一家几口人
+#### **"a family of + 数字"** 一家几口人
 
 e.g.: it's a family of three.
 
 ---
 
-##### Both
+#### Both
 
 两者, 双方
 
@@ -26,7 +26,7 @@ e.g.: Both of their children like music
 
 ---
 
-##### 形容词最高级形式: oldest, youngest
+#### 形容词最高级形式: oldest, youngest
 
 *形容词: 用来修饰名词的某项特征的词*
 
@@ -40,7 +40,7 @@ e.g.: Both of their children like music
 
 ---
 
-##### 形容词变最高级的规则
+#### 形容词变最高级的规则
 
 *音节是发音最基本的单位.*
 
@@ -78,7 +78,7 @@ e.g.: Both of their children like music
 
 ---
 
-##### Because
+#### Because
 
 Its name is Jumper **because** he likes to jump.
 
@@ -86,7 +86,7 @@ Its name is Jumper **because** he likes to jump.
 
 ---
 
-##### Can && Live in
+#### Can && Live in
 
 can + 动词 能够做某事, 会做某事
 
@@ -94,13 +94,13 @@ Live in + 地点: 住在哪里
 
 ---
 
-##### Apartment building
+#### Apartment building
 
 Apartment building 公寓大楼
 
 ---
 
-##### Take the ...
+#### Take the ...
 
 take the elevator(美) 乘坐电梯 take the lift(英)
 
@@ -108,7 +108,7 @@ take the stairs / climb the stairs 走楼梯/跑楼梯
 
 ---
 
-##### 倒装句
+#### 倒装句
 
 Fish ang Frogs are inside the pond. --->
 
@@ -116,13 +116,13 @@ Inside the pond are Fish and Frogs.
 
 ---
 
-##### a family of + ...
+#### a family of + ...
 
 a family of + 动物: 什么动物的一家
 
 ---
 
-##### 现在进行时
+#### 现在进行时
 
 be + V.ing --> 讲话时正在发生的动作
 
@@ -130,7 +130,7 @@ e.g.: He is reading a book.
 
 ---
 
-##### a tell tree 
+#### a tell tree 
 
 this tree is tall and green.
 
@@ -138,7 +138,7 @@ a long river 一条长河
 
 ---
 
-##### a pond
+#### a pond
 
 Fish and forgs live in this pond.
 
@@ -146,13 +146,13 @@ ocean 大洋
 
 ---
 
-##### a mountain
+#### a mountain
 
 a forest
 
 ---
 
-##### a little dog
+#### a little dog
 
 a sleeping cat
 
@@ -160,7 +160,7 @@ a bird
 
 ---
 
-##### 方位介词
+#### 方位介词
 
 on 在...上面(有接触)
 
