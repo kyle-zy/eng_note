@@ -1,4 +1,4 @@
-### Lesson_002 教学课 Unit1_Part1 
+### Lesson_002 教学课 Unit1_Part1 精讲1
 
 The Jackson Family && Their Neighborhood
 
